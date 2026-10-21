@@ -21,8 +21,6 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 
 Open the local URL Streamlit prints, usually http://localhost:8501.
 
-## Engineering caveat
-This is an educational steady-state DC motor model. Default motor constants are illustrative, and the time-response plot uses assumed time constants. For validation, use real datasheets, include inertia/inductance/friction/controller dynamics, and compare predictions against measured hardware.
 
 
 ## Mechanical motion visualization
